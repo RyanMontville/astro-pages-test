@@ -53,4 +53,4 @@ content:
 
 media:
   input: public/media
-  output: /media
+  output: /astro-pages-test/media
